@@ -1,0 +1,18 @@
+{
+    "name": "Franco Pro",
+    "bio": "fullstack javaScript developper",
+    "links": [
+        {
+            "group": "Socials Primary",
+            "name": "LinkedIn: Follow me",
+            "url": "https://linkedin.com/in/franco-djoutsop",
+            "icon": "FaLinkedin"
+        },
+        {
+            "group": "Socials Primary",
+            "name": "Github: Follow me",
+            "url": "https://github.com/franco-pro",
+            "icon": "FaGithub"
+        }
+    ]
+}
